@@ -8,8 +8,8 @@ public class maratahalli {
 		//System.out.print("java");
 		//System.out.print(" class");
 		//System.out.println("12"+"13");
-	    //System.out.println("3+5");
-	    //System.out.println(3+"5");
+	    System.out.println("3+5");
+	   // System.out.println(3+"5");
 	    //System.out.println(52/5);
 	    //System.out.println(52%5);
 	    //System.out.println(52*5);

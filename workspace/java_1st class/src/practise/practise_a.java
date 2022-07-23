@@ -8,10 +8,10 @@ public class practise_a {
 		int a=50;
 		int b=40;
 		System.out.println(a+b);
-		JVA ab=new JVA();
-		ab.sum();
-		ab.multiply();
-		
+		JVA sub=new JVA();
+		//ab.sum();
+		//ab.multiply();
+		sub.subtract();
 		
 		
 		
